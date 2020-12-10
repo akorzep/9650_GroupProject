@@ -1,7 +1,7 @@
 
 # 9650 Final Group Project
 
-### Team Memembers: 
+### Team Members: 
 Shilpa Paidighantom, Carmen Ruan, Mingma Sherpa, 
 Aleksandra Korzep, Katarzyna Borkowska, Lei Zhang
 ### Topic: Climate Change
