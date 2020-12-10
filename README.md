@@ -3,13 +3,13 @@
 
 ### Team Memembers: 
 Shilpa Paidighantom, Carmen Ruan, Mingma Sherpa, 
-Alexsandra Korzep, Katarzyna Borkowska, Lei Zhang
+Aleksandra Korzep, Katarzyna Borkowska, Lei Zhang
 ### Topic: Climate Change
 ---
 **Problem Statement:**\
 In this project, we are trying to answer the following questions:
 * What are the key influencing factors of climate change in United States.
-* How Meat Consumption, Food wastage are contributing to it?
+* How meat consumption, food wastage, electricity consumption and other variables are contributing to it?
 * What will be the trend in next years?
 
 **Objectives:**
